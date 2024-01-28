@@ -68,3 +68,7 @@ body {
   max-width: 150px;
 }
 
+.home .informacoes .lista-de-jogos {
+  display: flex;
+  gap: 32px;
+}
