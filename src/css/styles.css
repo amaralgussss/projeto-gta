@@ -142,3 +142,21 @@ body {
   gap: 30px;
 }
 
+.compre-ja informacoes h3{
+  font-family: 'ChaletComprime';
+  font-size: 52px;
+  font-weight: 700;
+}
+
+.compre-ja .informacoes p{
+  color: #e8e8e8;
+  font-family: 'Chalet';
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.compre-ja .informacoes .plataformas {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 32px;
+}
